@@ -31,4 +31,4 @@ https://cloud.google.com/sdk/docs/install#deb
 Add iteration for organizations level
 
 # Author
-<a href="https://twitter.com/ellicho007">Liat Vaknin</a> is an offensive security researcher @ Orca Security.
+<a href="https://twitter.com/ellicho007">Liat Vaknin</a> is an offensive security researcher @ <a href="https://twitter.com/orcasec?s=11">Orca Security</a>.
