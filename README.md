@@ -27,5 +27,8 @@ Install the gcloud sdk prior running the script.
 You can get the installation instructions for your OS here:
 https://cloud.google.com/sdk/docs/install#deb
 
+#TDO
+Add iteration for organizations level
+
 # Author
 <a href="https://twitter.com/ellicho007">Liat Vaknin</a> is an offensive security researcher @ Orca Security.
