@@ -10,4 +10,4 @@ Deploying vms instances with a default service account is a bad practice and sho
 
 Review your instances and eliminate this misconfiguration and stay safe!
 
-The author is an offensice security researcher @ Orca Security.
+The author is an offensive security researcher @ Orca Security.
