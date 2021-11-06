@@ -14,7 +14,9 @@ Review the output to eliminate this misconfiguration and stay safe!
 This tool is for testing and educational purposes only. 
 
 Any other usage for this code is not allowed. 
+
 Use at your own risk.
+
 The author bears NO responsibility for misuse of this tool.
 
 By using this you accept the fact that any damage caused by the use of this tool is your responsibility.
