@@ -27,7 +27,7 @@ Install the gcloud sdk prior running the script.
 You can get the installation instructions for your OS here:
 https://cloud.google.com/sdk/docs/install#deb
 
-#TDO
+# TODO
 Add iteration for organizations level
 
 # Author
