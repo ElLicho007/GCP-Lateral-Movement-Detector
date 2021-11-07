@@ -4,8 +4,6 @@ This script iterates through all the available projects in your GCP account and 
 
 It based on the misconfiguration of a vm instance configured with the default service account and all cloud api access scope.
 
-The script uses the user's GCP login account.
-
 Deploying vms instances with permissive permissions of the default service account is a bad practice and should be avoided at all times.
 
 Review the output to eliminate this misconfiguration and stay safe!
