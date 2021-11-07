@@ -13,9 +13,7 @@ For more information on the service account misconfiguration and how to exploit 
 # Disclaimer
 This tool is for testing and educational purposes only. 
 
-Any other usage for this code is not allowed. 
-
-Use at your own risk.
+Any other usage for this code is not allowed. Use at your own risk.
 
 The author bears NO responsibility for misuse of this tool.
 
