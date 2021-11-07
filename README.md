@@ -8,6 +8,8 @@ Deploying compute engine instances with permissive permissions (editor role) of 
 
 Review the output to easily analyze this misconfiguration in order to prevent attackers from spread in your GCP environment and stay safe!
 
+For more information on the service account misconfiguration and how to exploit it - see the blog post on Orca <<<<Security blog>>>>.
+
 # Disclaimer
 This tool is for testing and educational purposes only. 
 
