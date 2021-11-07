@@ -6,7 +6,7 @@ It is based on the misconfiguration of a compute engine instance configured with
 
 Deploying compute engine instances with permissive permissions (editor role) of the default service account is a bad practice and should be avoided at all times.
 
-Review the output to eliminate this misconfiguration in order to prevent attackers from spread in your GCP environment and stay safe!
+Review the output to easily analyze this misconfiguration in order to prevent attackers from spread in your GCP environment and stay safe!
 
 # Disclaimer
 This tool is for testing and educational purposes only. 
