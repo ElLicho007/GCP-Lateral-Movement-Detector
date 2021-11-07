@@ -23,7 +23,7 @@ By using this you accept the fact that any damage caused by the use of this tool
 Install the gcloud sdk prior running the script.
 
 You can get the installation instructions for your OS here:
-https://cloud.google.com/sdk/docs/install#deb
+https://cloud.google.com/sdk/docs/install
 
 # TODO
 Add iteration for organizations level
