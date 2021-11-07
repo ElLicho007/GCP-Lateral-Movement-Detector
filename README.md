@@ -20,10 +20,11 @@ The author bears NO responsibility for misuse of this tool.
 By using this you accept the fact that any damage caused by the use of this tool is your responsibility.
 
 # Dependencies
-Install the gcloud sdk prior running the script.
-
+1. Install the gcloud sdk prior running the script.
 You can get the installation instructions for your OS here:
 https://cloud.google.com/sdk/docs/install
+
+2. Sudo apt-get install jq
 
 # TODO
 Add iteration for organizations level
